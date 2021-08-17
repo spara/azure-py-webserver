@@ -1,0 +1,5 @@
+config:
+  azure-native:location: westus
+  azure-py-webserver:password:
+    secure: AAABANEmwgvlL+nnEKQBoRtSuv0slHOEVQdjHrcCplb0H2Hip6X106E=
+  azure-py-webserver:username: webmaster
